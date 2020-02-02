@@ -1,0 +1,47 @@
+
+
+body {
+    font-family: 'Muli', sans-serif;
+    margin: 50px;
+    margin-top: 60px;
+    color:  #afa1a5;
+    line-height: 1.4;
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 50px;
+    color: #f4b6c2;
+    margin-bottom: 17px;
+}
+
+h2 {
+    color: #eec9d2;
+    padding-top: 10px;
+    margin-bottom: -5px;
+}
+
+.container {
+    max-width: 600px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: auto;
+
+}
+
+#overviewSection {
+    color: #a3979b;
+}
+
+.line {
+    margin-top:30px;
+    color: #eee3e7;
+}
+
+@media screen and (max-width: 500px) {
+
+    h1 {
+        font-size: 40px;
+    }
+}
